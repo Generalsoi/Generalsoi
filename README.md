@@ -6,7 +6,7 @@ Front End Developer
 
 I am a professional front-end web developer. My specialties are HTML, CSS, Javascript, Bootstrap, and React.js. It is interesting to note that I am a self-taught developer, with about two years plus of experience. During this time, I have worked on quite a number of projects, greatly improved compared to when I started, and I'm still learning.
 
-* 🌍  I'm based in Nigeria
+* 🌍  I'm based in Nigeria (for now)
 * ✉️  You can contact me at [ikhinobelesuccess@gmail.com](mailto:ikhinobelesuccess@gmail.com)
 * ⚡  If God took a selfie, it would look exactly like me.
 
